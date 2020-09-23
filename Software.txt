@@ -1,0 +1,5 @@
+This software requires further following softwares:
+python,
+github,
+c,
+cpp. 
